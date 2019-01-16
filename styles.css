@@ -1,0 +1,122 @@
+body{
+    background: url("https://media.giphy.com/media/mUIk7V2304jxS/giphy.gif");
+   background-repeat:no-repeat;
+   background-size:cover;
+text-align:center;
+background-color:lightblue;
+font-family: 'Indie Flower', cursive;
+font-size:35px;
+}
+h1{
+    color:white;
+    text-decoration:overline underline;
+    }
+
+.button{
+    text-align:center;
+    font-size:25px;
+    margin:4px 2px;
+    transition-duration:0.4s;
+    font-family: 'Indie Flower', cursive;
+    }
+    
+.b1{
+    background-color:white;
+    color:black;
+    border:2px solid #5ca86c;
+    }
+    
+    .b1:hover{
+    background-color:#5ca86c;
+    color:white;}
+    
+    .b2{
+    background-color:white;
+    color:black;
+    border:2px solid #b78ad1;
+    }
+    
+    .b2:hover{background-color:#b78ad1;
+    color:white;
+    }
+    
+    .b3{
+    background-color:white;
+    color:black;
+    border:2px solid #8ab6d1;
+    }
+    .b3:hover{
+     background-color:#8ab6d1;
+     color:white;
+    }
+    
+    .b4{
+     background-color:white;
+     color:black;
+     border:2px solid #fbff9e;
+    }
+    
+    .b4:hover{
+     background-color:#fbff9e;
+     color:black;
+    }
+    
+    .b5{
+    background-color:white;
+    color:black;
+    border:2px solid #e0bc2f;
+    }
+    
+    .b5:hover{
+    background-color:#e0bc2f;
+    color:white;
+        }
+        
+    .b6{
+        background-color:white;
+    color:black;
+    border:2px solid #92ce92;
+    }
+    
+    .b6:hover{
+    background-color:#92ce92;
+    color:white;
+        }
+        
+    .b7{
+    background-color:white;
+    color:black;
+    border:2px solid #ef7e58;
+        }
+        
+    .b7:hover{
+     background-color:#ef7e58;
+     color:white;
+    }
+    
+    .b8{
+     background-color:white;
+     color:black;
+     border:2px solid #4e55b7;
+    }
+    
+    .b8:hover{
+     background-color:#4e55b7;
+     color:white;
+    }
+    
+    .b9{
+     background-color:white;
+     color:black;
+     border:2px solid #08751c;
+    }
+    
+    .b9:hover {
+     background-color:#08751c;
+     color:white;
+    }
+    
+    p{
+    background-color:white;
+    color:black;
+        }
